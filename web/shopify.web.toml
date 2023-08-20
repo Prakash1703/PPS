@@ -1,0 +1,7 @@
+type="backend"
+
+[commands]
+dev = "npm run dev"
+
+
+SCOPES="write_files,write_themes,write_products,read_products"
